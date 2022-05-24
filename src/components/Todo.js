@@ -2,7 +2,7 @@ const Todo = () => {
     return (
         <div className="todo">
             <li className="todo-item">listooooo</li>
-            <button className="complet-btn">
+            <button className="complete-btn">
                 <i className="fas fa-check"></i>
             </button>
             <button  className="trash-btn">
